@@ -1,0 +1,204 @@
+body {
+  height: 100vh;
+  display: grid;
+  gap: 10px;
+  grid:
+    ".  .  begin  .  .  ." 1fr
+    ". a1 a2 a3 a4  ." 1fr
+    ". b1 b2 b3 b4  ." 1fr
+    ". c1 c2 c3 c4  ." 1fr
+    ". d1 d2 d3 d4  ." 1fr
+    ".  .  .  .  .  ." 1fr / auto;
+}
+
+.colorbox {
+  border: 3px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#box1 {
+  background-color: red;
+  grid-area: a1;
+  z-index: -1;
+}
+#cover1 {
+  background-color: black;
+  grid-area: a1;
+  z-index: 1;
+}
+
+#box2 {
+  background-color: blue;
+  grid-area: a2;
+  z-index: -1;
+}
+#cover2 {
+  background-color: black;
+  grid-area: a2;
+  z-index: 1;
+}
+
+#box3 {
+  background-color: yellow;
+  grid-area: a3;
+  z-index: -1;
+}
+#cover3 {
+  background-color: black;
+  grid-area: a3;
+  z-index: 1;
+}
+
+#box4 {
+  background-color: green;
+  grid-area: a4;
+  z-index: -1;
+}
+#cover4 {
+  background-color: black;
+  grid-area: a4;
+  z-index: 1;
+}
+
+#box5 {
+  background-color: red;
+  grid-area: b1;
+  z-index: -1;
+}
+#cover5 {
+  background-color: black;
+  grid-area: b1;
+  z-index: 1;
+}
+
+#box6 {
+  background-color: blue;
+  grid-area: b2;
+  z-index: -1;
+}
+#cover6 {
+  background-color: black;
+  grid-area: b2;
+  z-index: 1;
+}
+
+#box7 {
+  background-color: yellow;
+  grid-area: b3;
+  z-index: -1;
+}
+#cover7 {
+  background-color: black;
+  grid-area: b3;
+  z-index: 1;
+}
+
+#box8 {
+  background-color: green;
+  grid-area: b4;
+  z-index: -1;
+}
+#cover8 {
+  background-color: black;
+  grid-area: b4;
+  z-index: 1;
+}
+
+#box9 {
+  background-color: red;
+  grid-area: c1;
+  z-index: -1;
+}
+#cover9 {
+  background-color: black;
+  grid-area: c1;
+  z-index: 1;
+}
+
+#box10 {
+  background-color: blue;
+  grid-area: c2;
+  z-index: -1;
+}
+#cover10 {
+  background-color: black;
+  grid-area: c2;
+  z-index: 1;
+}
+
+#box11 {
+  background-color: yellow;
+  grid-area: c3;
+  z-index: -1;
+}
+#cover11 {
+  background-color: black;
+  grid-area: c3;
+  z-index: 1;
+}
+
+#box12 {
+  background-color: green;
+  grid-area: c4;
+  z-index: -1;
+}
+#cover12 {
+  background-color: black;
+  grid-area: c4;
+  z-index: 1;
+}
+
+#box13 {
+  background-color: red;
+  grid-area: d1;
+  z-index: -1;
+}
+#cover13 {
+  background-color: black;
+  grid-area: d1;
+  z-index: 1;
+}
+
+#box14 {
+  background-color: blue;
+  grid-area: d2;
+  z-index: -1;
+}
+#cover14 {
+  background-color: black;
+  grid-area: d2;
+  z-index: 1;
+}
+
+#box15 {
+  background-color: yellow;
+  grid-area: d3;
+  z-index: -1;
+}
+#cover15 {
+  background-color: black;
+  grid-area: d3;
+  z-index: 1;
+}
+
+#box16 {
+  background-color: green;
+  grid-area: d4;
+  z-index: -1;
+}
+#cover16 {
+  background-color: black;
+  grid-area: d4;
+  z-index: 1;
+}
+
+.colorbox:hover {
+  /* background: rgba(0, 0, 0, 0.1) !important; */
+  font-weight: bold;
+  /* filter: brightness(70%); */
+}
+#begin-button {
+  grid-area: begin;
+}
