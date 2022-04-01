@@ -23,6 +23,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  min-height: 50px;
+  min-width: 50px;
 }
 
 #box1 {
@@ -206,6 +208,7 @@ body {
   font-weight: bold;
   /* filter: brightness(70%); */
 }
+
 #begin-button {
   grid-area: begin;
   height: 50%;
@@ -217,9 +220,7 @@ body {
   margin: 0;
 }
 
-
 @media only screen and (min-width: 768px) {
- 
   body {
     height: 80vh;
     width: 80vw;
@@ -231,21 +232,22 @@ body {
 
   .colorbox {
     font-size: 130%;
+    min-height: 100px;
+    min-width: 100px;
   }
 }
 
 @media only screen and (min-width: 1025px) {
- 
   body {
     height: 60vh;
     width: 60vw;
     grid:
-    ".  .  begin  .  .  ." 2fr
-    ". a1 a2 a3 a4  ." 1fr
-    ". b1 b2 b3 b4  ." 1fr
-    ". c1 c2 c3 c4  ." 1fr
-    ". d1 d2 d3 d4  ." 1fr
-    ".  .  .  .  .  ." 1fr / auto;
+      ".  .  begin  .  .  ." 100px
+      ". a1 a2 a3 a4  ." 1fr
+      ". b1 b2 b3 b4  ." 1fr
+      ". c1 c2 c3 c4  ." 1fr
+      ". d1 d2 d3 d4  ." 1fr
+      ".  .  .  .  .  ." 1fr / auto;
   }
 
   #begin-button {
@@ -254,5 +256,7 @@ body {
 
   .colorbox {
     font-size: 155%;
+    min-height: 150px;
+    min-width: 150px;
   }
 }
