@@ -19,15 +19,11 @@ Small memory card game for experimenting with JavaScript and CSS and, ultimately
 
 ## Instructions
 
-```
-This project is still in development.  The app will need to be run locally via development server such as LiveServer
-```
+This project is still in development. The app will need to be run locally via development server such as LiveServer
 
 ## Overview
 
-```
-This project began as a way to experiment with CSS and quickly evolved into a sandbox of manipulating CSS with JavaScript.  I also thought this simple game could be something that my child could play.
-```
+This project began as a way to experiment with CSS and quickly evolved into a sandbox of manipulating CSS with JavaScript. I also thought this simple game could be something that my child could play.
 
 ## Technologies
 
@@ -47,12 +43,8 @@ This project began as a way to experiment with CSS and quickly evolved into a sa
 
 ## Questions
 
-```
 If you have any questions or concerns feel free to reach out to me at [Github](https://github.com/ThomasStrong) or through email at <strng_thms@yahoo.com>.
-```
 
 ## Contributions
 
-```
-This is ultimately a personal sandbox and for my own education and experimenting.  That being said, please fork this as you wish and see what you can come up with.  I would love to see what you create!
-```
+This is ultimately a personal sandbox and for my own education and experimenting. That being said, please fork this as you wish and see what you can come up with. I would love to see what you create!
