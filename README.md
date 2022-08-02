@@ -11,10 +11,17 @@ Small memory card game for experimenting with JavaScript and CSS and, ultimately
 ## Table of Contents
 
 - [Overview](#overview)
+- [Instructions](#instructions)
 - [Technologies](#technologies)
 - [Future Development](#future-development)
 - [Questions](#questions)
 - [Contributions](#contributions)
+
+## Instructions
+
+```
+This project is still in development.  The app will need to be run locally via development server such as LiveServer
+```
 
 ## Overview
 
