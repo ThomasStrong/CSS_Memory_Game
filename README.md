@@ -3,7 +3,7 @@
 <img align="center" src="/assets/cssmemgamess.png">
 
 ```
-Live URL: https://thomasstrong.github.io/CSS_Memory_Game/
+Live URL: [https://thomasstrong.github.io/CSS_Memory_Game/](https://thomasstrong.github.io/CSS_Memory_Game/)
 ```
 
 ## Description
