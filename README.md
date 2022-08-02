@@ -31,8 +31,11 @@ This project began as a way to experiment with CSS and quickly evolved into a sa
 
 ```
 - JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 - CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 - HTML
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 ```
 
 ## Future Development
