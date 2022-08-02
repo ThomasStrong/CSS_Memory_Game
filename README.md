@@ -2,6 +2,10 @@
 
 <img align="center" src="/assets/cssmemgamess.png">
 
+```
+Live URL: https://thomasstrong.github.io/CSS_Memory_Game/
+```
+
 ## Description
 
 ```
@@ -19,7 +23,7 @@ Small memory card game for experimenting with JavaScript and CSS and, ultimately
 
 ## Instructions
 
-This project is still in development. The app will need to be run locally via development server such as LiveServer
+The app is hosted at [GitHub Pages](https://thomasstrong.github.io/CSS_Memory_Game/) or, will need to be run locally via development server.
 
 ## Overview
 
