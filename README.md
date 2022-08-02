@@ -42,7 +42,7 @@ This project began as a way to experiment with CSS and quickly evolved into a sa
 ```
 - Needs to show cards on match
 - Match colors to icons (?); update icons (?)
-- Host on GitHub Pages or similar
+- Scoring, +/- high scores
 ```
 
 ## Questions
